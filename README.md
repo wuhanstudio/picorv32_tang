@@ -69,5 +69,8 @@ Click on **Generate Bitstream**, then choose **download** to flash the bitstream
 ### Helpful Resources
 
 - [Setting up the toolchain](https://pingu98.wordpress.com/2019/04/08/how-to-build-your-own-cpu-from-scratch-inside-an-fpga/)
+
+### Related Projects
 - [picorv32_EG4S20](https://gitee.com/Stupid_bird/picorv32_EG4S20)
 - [rt-thread nano](https://github.com/flyfishR/rtthread-nano)
+- [HBird E203 + RT-Thread](https://github.com/wuhanstudio/hbird_e203_tang)
