@@ -1,0 +1,6 @@
+[submodule "picorv32_EG4S20"]
+	path = picorv32_EG4S20
+	url = https://github.com/wuhanstudio/picorv32_EG4S20
+[submodule "rtthread-nano"]
+	path = rtthread-nano
+	url = https://github.com/wuhanstudio/rtthread-nano
