@@ -62,7 +62,7 @@ $ cp bin2mif/rt-thread.mif picorv32_EG4S20/firmware/
 
 Now, let's make things work on FPGA. The IDE can be downloaded [here](http://dl.sipeed.com/), and instructions on how to install it can be found [here](https://tang.sipeed.com/en/getting-started/installing-td-ide/linux/).
 
-Click on Generate Bitstream, then choose download to flash the bitstream to your board. 
+Click on **Generate Bitstream**, then choose **download** to flash the bitstream to your board. 
 
 ![TD GUI Mode](doc/td.png)
 
